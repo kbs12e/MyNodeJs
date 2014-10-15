@@ -1,0 +1,17 @@
+[Sunstone] Improvement performance of List alpha index
+
+:Release Notes:
+Improvement performance of DataList with alpha indexer
+
+:Detailed Notes:
+Improvement performance of DataList with alpha indexer
+
+:Testing Performed:
+Open sample page and review
+
+:QA Notes:
+
+:Issues Addressed:
+[CCWMP-7599] Performance improvement of DataList Aplhabetical index
+[CCWMP-4300] Develop Listview UI - button
+
